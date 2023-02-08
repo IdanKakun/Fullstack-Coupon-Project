@@ -1,0 +1,24 @@
+.CreateCoupon>form {
+    width: 270px;
+    text-align: left;
+}
+
+.CreateCoupon input,
+.CreateCoupon button {
+    width: 100;
+    display: flex;
+    box-sizing: border-box;
+    margin: 2px;
+
+}
+
+.CreateCoupon h2 {
+    text-align: center;
+    margin: 2px;
+}
+
+.CreateCoupon span {
+    position: absolute;
+    color: red;
+    margin:5px;
+}

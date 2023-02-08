@@ -1,0 +1,23 @@
+.UpdateCoupon>form {
+    width: 270px;
+    text-align: left;
+}
+
+.UpdateCoupon input,
+.UpdateCoupon button {
+    width: 100;
+    display: flex;
+    box-sizing: border-box;
+    margin: 2px;
+}
+
+.UpdateCoupon h2 {
+    text-align: center;
+    margin: 2px;
+}
+
+.UpdateCoupon span {
+    position: absolute;
+    color: red;
+    margin: 5px;
+}

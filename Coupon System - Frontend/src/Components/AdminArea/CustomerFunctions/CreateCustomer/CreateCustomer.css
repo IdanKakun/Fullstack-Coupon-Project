@@ -1,0 +1,23 @@
+.CreateCustomer>form {
+    width: 250px;
+    text-align: left;
+}
+
+.CreateCustomer input,
+.CreateCustomer button {
+    width: 100;
+    box-sizing: border-box;
+    display: flex;
+    margin-bottom: 10px;
+
+}
+
+.CreateCustomer h2 {
+    text-align: center;
+}
+
+.CreateCustomer span {
+    position: absolute;
+    color: red;
+    margin: 0 20px;
+}

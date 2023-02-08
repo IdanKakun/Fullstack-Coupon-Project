@@ -1,0 +1,11 @@
+enum Category {
+    FOOD = "FOOD",
+    ELECTRICITY = "ELECTRICITY",
+    RESTAURANT = "RESTAURANT",
+    VACATION = "VACATION",
+    SPA_AND_BEAUTY = "SPA AND BEAUTY",
+    THINGS_TO_DO_CHILDREN = "THINGS TO DO CHILDREN",
+    HOME_DECOR = "HOME DECORE"
+}
+
+export default Category;

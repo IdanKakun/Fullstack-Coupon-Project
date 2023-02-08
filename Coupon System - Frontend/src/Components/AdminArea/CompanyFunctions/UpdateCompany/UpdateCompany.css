@@ -1,0 +1,23 @@
+.UpdateCompany>form {
+    width: 250px;
+    text-align: left;
+}
+
+.UpdateCompany input,
+.UpdateCompany button {
+    width: 100;
+    display: flex;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+
+}
+
+.UpdateCompany h2 {
+    text-align: center;
+}
+
+.UpdateCompany span {
+    position: absolute;
+    color: red;
+    margin: 0 20px;
+}

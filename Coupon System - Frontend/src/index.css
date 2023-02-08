@@ -1,0 +1,35 @@
+html,
+body,
+#root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: system-ui;
+    text-align: center;
+    background-image: url(/src/Assets/Images/Background-image.jpg);
+    background-size: cover;
+    color: rgb(26, 25, 25);
+}
+
+a {
+    color: rgb(43, 45, 43);
+}
+
+.Box {
+    display: inline-block;
+    border: 2px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
+
+
+.Button {
+    transition-duration: 0.4s;
+}
+
+.Button:hover {
+    background-color: #272927;
+    color: white;
+}

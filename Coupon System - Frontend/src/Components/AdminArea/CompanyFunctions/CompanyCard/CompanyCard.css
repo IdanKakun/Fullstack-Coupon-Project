@@ -1,0 +1,20 @@
+.CompanyCard.Box {
+    width: 300px;
+    display: inline-flex;
+    align-items: center;
+    text-align: left;
+    background-image: linear-gradient(90deg, lightblue, white);
+}
+
+.CompanyCard img {
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.CompanyCard>div:last-child {
+    margin-left: auto;
+}

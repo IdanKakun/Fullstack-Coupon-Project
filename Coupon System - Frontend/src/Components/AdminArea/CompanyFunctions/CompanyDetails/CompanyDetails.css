@@ -1,0 +1,6 @@
+.CompanyDetails.Box {
+    width: 300px;
+    display: inline-flex;
+    align-items: center;
+    text-align: left;
+}

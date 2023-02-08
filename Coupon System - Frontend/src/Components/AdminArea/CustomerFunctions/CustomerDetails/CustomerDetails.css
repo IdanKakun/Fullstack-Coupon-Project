@@ -1,0 +1,6 @@
+.CustomerDetail.Box {
+    width: 250px;
+    display: inline-flex;
+    align-items: center;
+    text-align: left;
+}

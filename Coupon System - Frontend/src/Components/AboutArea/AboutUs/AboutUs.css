@@ -1,0 +1,14 @@
+.AboutUs>h2 {
+    margin-right: 250px;
+    margin-bottom: 10px;
+}
+
+.AboutUs>.about {
+    text-align: left;
+    margin-left: 250px;
+}
+
+.AboutUs>.about>label {
+    font-weight: bold;
+    text-decoration: underline;
+}
